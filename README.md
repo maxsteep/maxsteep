@@ -12,11 +12,11 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 
 | Category                           | Skills                                                                                                                                  |
 | :----------------------------------| :---------------------------------------------------------------------------------------------------------------------------------------|
-| **Technical Skills**               | C/C++, Python, kernel, assembly \| Jira/Git | HTML/CSS, Bootstrap, Flask, NoSQL, REST                                                    |
+| **Technical Skills**               | C/C++, Python, kernel, assembly \| Jira/Git \| HTML/CSS, Bootstrap, Flask, NoSQL, REST                                                    |
 | **AI & Machine Learning**          | PyTorch, Model Development & Deployment, **Published Research (CAR J. & RSNA J.)**, ML Classification, Data Pipelines                   |
-| **Systems & Cloud**                | Windows/Linux Servers, AD | VoIP, VLAN, Cisco CCNA | AWS, Docker, Heroku | VMware                                                       |
-| **Hardware & Firmware**            | Verilog and FPGA digital design | Embedded ARM microcontroller development                                                              |
-| **Medical Imaging/Healthcare IT**  | RIS, PACS, HL7, DICOM workflow | Secure handling of patient data (PHIPA/PIPEDA)                                                         |
+| **Systems & Cloud**                | Windows/Linux Servers, AD \| VoIP, VLAN, Cisco CCNA \| AWS, Docker, Heroku \| VMware                                                       |
+| **Hardware & Firmware**            | Verilog and FPGA digital design \| Embedded ARM microcontroller development                                                              |
+| **Medical Imaging/Healthcare IT**  | RIS, PACS, HL7, DICOM workflow \| Secure handling of patient data (PHIPA/PIPEDA)                                                         |
 
 
 ---
