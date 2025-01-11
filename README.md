@@ -10,15 +10,14 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 
 ### Core Competencies
 
-| Category                  | Skills                                                                                                                                |
-| :-------------------------| :------------------------------------------------------------------------------------------------------------------------------------ |
-| **Programming**           | C/C++, Python, Assembly (x86, ARM), Verilog                                                                                           |
-| **AI & Machine Learning** | PyTorch, Model Development & Deployment, **Published Research (CAR J. & RSNA J.)**, ML Classification, Data Pipelines                 | 
-| **Systems & Cloud**       | Windows/Linux Servers, Active Directory (AD), AWS, Docker, Heroku, Virtualization (VMware), Network Management (CCNA), VoIP, VLAN     |
-| **Web Development**       | HTML, CSS, Bootstrap, Flask, REST APIs, NoSQL (MongoDB)                                                                               |
-| **DevOps & Tools**        | Jira, Git                                                                                                                             |
-| **Hardware**              | FPGA Digital Design, Embedded Systems (ARM), Microcontroller Development                                                              |
-| **Healthcare IT**         | RIS, PACS, HL7, DICOM, **Secure Data Handling (PHIPA/PIPEDA)**, Medical Imaging Workflows                                             |
+| Category                           | Skills                                                                                                                                  |
+| :----------------------------------| :---------------------------------------------------------------------------------------------------------------------------------------|
+| **Technical Skills**               | C/C++, Python, kernel, assembly | Jira/Git | HTML/CSS, Bootstrap, Flask, NoSQL, REST                                                    |
+| **AI & Machine Learning**          | PyTorch, Model Development & Deployment, **Published Research (CAR J. & RSNA J.)**, ML Classification, Data Pipelines                   | 
+| **Systems & Cloud**                | Windows/Linux Servers, AD | VoIP, VLAN, Cisco CCNA | AWS, Docker, Heroku | VMware                                                       |                                                                                                                            |
+| **Hardware & Firmware**            | Verilog and FPGA digital design | Embedded ARM microcontroller development                                                              |
+| **Medical Imaging/Healthcare IT**  | RIS, PACS, HL7, DICOM workflow | Secure handling of patient data (PHIPA/PIPEDA)                                                         |
+
 
 ---
 
