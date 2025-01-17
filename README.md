@@ -4,7 +4,7 @@
 
 Forward-thinking technology leader passionate about leveraging AI and systems expertise to develop impactful, real-world solutions, particularly within healthcare and infrastructure domains. Proven ability to design, implement, and optimize complex systems, drive innovation, and lead teams to success.
 
-**Contact:** [maxim.stepanov@alumni.utoronto.ca](mailto:maxim.stepanov@alumni.utoronto.ca) | [LinkedIn](https://linkedin.com/in/maximstepanov)
+**Contact:** [maxim.stepanov@alumni.utoronto.ca](mailto:maxim.stepanov@alumni.utoronto.ca) | [LinkedIn](https://linkedin.com/in/maximstepanov)| [Maxoft](https://maxoft.ca)
 
 ---
 
