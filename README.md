@@ -24,7 +24,7 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 ### Professional Experience Highlights
 
 *   **Maxoft Inc.**, IT Consultant (2022 - Present)
-    *   Delivered automation, web development, and digital marketing solutions, boosting client efficiency by up to **40%** and web engagement by **30%**.
+    *   Delivered automation, web development, and digital marketing solutions, boosting client efficiency by up to **400%** and web engagement by **30%**.
 *   **Unity Health Toronto & St. Michael's Hospital**, AI Research Engineer (2021 - 2022)
     *   **Developed AI tool improving CT scan DICOM tagging accuracy from <50% to >99%**, enhancing diagnostic workflows and patient care.
     *   **Published research** on Machine Learning Classification on CT Imaging in the Canadian Association of Radiologists Journal and RSNA's Radiology: Artificial Intelligence Journal.
