@@ -55,7 +55,7 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 *   **![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> [CityGlazing website](https://github.com/maxsteep/cityglazing-website)**: A full website developed for City Glazing, demonstrating proficiency in front-end (HTML, CSS, JavaScript) web development and UI/UX design.
 *   **![Assembly](https://img.shields.io/badge/Assembly-x86%2FARM-lightgrey) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) <br> [SmartCore SafeLift](https://github.com/maxsteep/SmartCore-SafeLift)**: An elevator simulator project highlighting skills in system design, control algorithms, interrupt handling and real-time programming.
 *   **![Verilog](https://img.shields.io/badge/Verilog-4579BA?style=flat&logo=verilog&logoColor=white) <br> ['72Pong](https://github.com/maxsteep/-72Pong)**: A recreation of the classic game Pong, showcasing fundamental game development skills, including hardware interfacing and low-level programming with ISRs.
-
+*   **![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) <br> [OS 161 Kernel Implementation](https://github.com/maxsteep/OS-161-Kernel-Implementation)**: The very core of any modern OS, demonstrating hands-on experience with OS kernel, including memory management, threading and process management in pure C.
 ---
 
 **Seeking opportunities to leverage my AI and systems expertise to build innovative and impactful solutions. Let's connect!**
