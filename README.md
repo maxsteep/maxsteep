@@ -25,10 +25,14 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 
 *   **Perimeter Medical Imaging AI**, AI Research Intern (2026 September - Present)
     *   Deep Learning Research & Development to improve AI-assisted surgical margin assessment for breast cancer imaging: model creation and optimization, workflow integration, etc.
-*   **Maxoft Inc.**, IT Consultant (2022 - 2026 August)
-    *   Delivered automation, web development, and digital marketing solutions, boosting client efficiency by up to **400%** and web engagement by **30%**.
+    *   Over **60%** reduction on false positives via custom object detection methods.
+*   **Maxoft Inc.**, IT Consultant (2022 - 2026 September)
+    *   Made job planning **4× faster** for trade clients by building a custom Python/MongoDB framework for material quantification, stock-cutting optimization, and inventory management.
+    *   Cut client billing time by **75%** with configurable document automation for complex scheduling and invoicing rules.
+    *   Built a HomeStars-integrated marketing platform that automated lead follow-up and **doubled** lead conversion in 3 months.
+	 *   Delivered automation, web development, and digital marketing solutions, boosting client efficiency by up to **400%** and web engagement by **30%**.
 *   **Unity Health Toronto & St. Michael's Hospital**, AI Research Engineer (2021 - 2022)
-    *   **Developed AI tool improving CT scan DICOM tagging accuracy from ~50% to >99%**, enhancing diagnostic workflows and patient care.
+    *   Developed AI tool improving CT scan DICOM tagging accuracy from **~50% to >99%**, enhancing diagnostic workflows and patient care.
     *   **Published research** on Machine Learning Classification on CT Imaging in the Canadian Association of Radiologists Journal and RSNA's Radiology: Artificial Intelligence Journal.
     *   Ensured secure handling of 50,000+ patient records in compliance with PIPEDA, TCPS 2, and hospital privacy standards.
 *   **Deluxe Entertainment**, IT Analyst II (2013 - 2014)
@@ -44,7 +48,7 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 
 ### Education
 
-*   **University of Toronto** - Masters of Engineering in Computer Engineering (2026 - 2028)
+*   **University of Toronto** - Masters of Engineering in Computer Engineering (2026 - est. 2028)
 *   **University of Toronto** - Bachelor of Applied Science (BASc) in Computer Engineering (2014 - 2022)
 *   **University of Toronto** - Engineering Business with Leadership Focus (2018 - 2022)
 
