@@ -23,7 +23,7 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
 
 ### Professional Experience Highlights
 
-*   **Perimeter Medical Imaging AI**, AI Research Intern (2026 September - Present)
+*   **Perimeter Medical Imaging AI**, AI Research Engineer (Internship) (2026 September - Present)
     *   Deep Learning Research & Development to improve AI-assisted surgical margin assessment for breast cancer imaging: model creation and optimization, workflow integration, etc.
     *   Over **60%** reduction on false positives via custom object detection methods.
 *   **Maxoft Inc.**, IT Consultant (2022 - 2026 September)
@@ -31,7 +31,7 @@ Forward-thinking technology leader passionate about leveraging AI and systems ex
     *   Cut client billing time by **75%** with configurable document automation for complex scheduling and invoicing rules.
     *   Built a HomeStars-integrated marketing platform that automated lead follow-up and **doubled** lead conversion in 3 months.
 	 *   Delivered automation, web development, and digital marketing solutions, boosting client efficiency by up to **400%** and web engagement by **30%**.
-*   **Unity Health Toronto & St. Michael's Hospital**, AI Research Engineer (2021 - 2022)
+*   **Unity Health Toronto & St. Michael's Hospital**, AI Research & Development Engineer (2021 - 2022)
     *   Developed AI tool improving CT scan DICOM tagging accuracy from **~50% to >99%**, enhancing diagnostic workflows and patient care.
     *   **Published research** on Machine Learning Classification on CT Imaging in the Canadian Association of Radiologists Journal and RSNA's Radiology: Artificial Intelligence Journal.
     *   Ensured secure handling of 50,000+ patient records in compliance with PIPEDA, TCPS 2, and hospital privacy standards.
